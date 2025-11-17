@@ -5,60 +5,84 @@ Ela surge como resposta a um problema comum no país: a falta de um sistema naci
 
 Atualmente, os angolanos dependem de métodos pouco eficazes, como redes sociais, rádio local, esquadras policiais e o boca a boca — processos que muitas vezes falham e tornam a emissão de segunda via cara, demorada e frustrante.
 
-Com Kwata, esse cenário muda.
+Com Kwata, esse cenário muda. 
 
 ---
 
-## Índice
+## 📌 Sobre o Projeto
 
-- [Sobre o Projeto](#sobre-o-projeto)  
-- [Como Funciona](#como-funciona)  
-- [Funcionalidades](#funcionalidades)  
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)  
-- [Como Instalar](#como-instalar)  
-- [Como Usar](#como-usar)  
-- [Contribuições](#contribuições)  
-- [Licença](#licença)  
-
----
-
-## Sobre o Projeto
-
-Kwata vem do kimbundu, uma das línguas nacionais de Angola, e significa “encontrar”.  
+Kwata vem do kimbundu, uma das línguas nacionais de Angola, e significa "encontrar".  
 O nome reflete a missão da plataforma: ajudar cidadãos a reencontrarem seus documentos de forma segura, simples e eficiente.
 
-O sistema permite registrar documentos perdidos e encontrados, cruzando informações automaticamente para facilitar a devolução, respeitando a privacidade dos usuários.
+O sistema permite registrar documentos perdidos e encontrados e usa um mecanismo inteligente de correspondência para aproximar quem perdeu de quem encontrou, respeitando totalmente a privacidade do usuário.
 
 ---
 
-## Como Funciona
+## ⚙️ Como Funciona
 
-1. **Registro de documentos perdidos:** o usuário informa tipo, local e data da perda.  
-2. **Registro de documentos encontrados:** o usuário registra detalhes e local onde encontrou.  
-3. **Correspondência inteligente:** o sistema cruza dados para identificar possíveis correspondências e notifica as partes.
+1. **📍 Registro de documentos perdidos:**  
+   O usuário informa tipo, local aproximado e data da perda.
+
+2. **📦 Registro de documentos encontrados:**  
+   Quem encontrou insere detalhes, local e envia foto parcial protegida.
+
+3. **🤖 Correspondência inteligente:**  
+   O sistema cruza informações automaticamente e notifica possíveis correspondências.
 
 ---
 
-## Funcionalidades
+## 📱 Funcionalidades
 
-- Criar anúncios de documentos perdidos e encontrados  
-- Upload de fotos parciais protegidas (dados sensíveis ocultos)  
-- Notificações automáticas para possíveis correspondências  
-- Filtros por província, município e local específico  
+- Criar anúncios de documentos perdidos  
+- Criar anúncios de documentos encontrados  
+- Upload de fotos parciais com dados sensíveis ocultados  
+- Notificações automáticas de correspondências  
+- Filtros por província, município, bairro e local específico  
 - Opção de entrega em pontos físicos parceiros  
 
 ---
 
-## Tecnologias Utilizadas
+## 🛠 Tecnologias Utilizadas
 
-- Frontend: HTML5, CSS3, JavaScript  
-- Backend: PHP  
-- Banco de dados: MySQL  
+- 🎨 **Frontend:** HTML5, CSS3, JavaScript  
+- 🖥 **Backend:** PHP  
+- 🗄 **Banco de dados:** MySQL  
 
 ---
 
-## Como Instalar
+## 🧰 Pré-requisitos
 
-1. Clone o repositório:  
+Antes de executar o projeto, instale as seguintes ferramentas:
+
+### ✔ 1. Git  
+https://git-scm.com  
+
+### ✔ 2. Servidor Local (PHP + MySQL)
+Use um dos seguintes:
+
+- XAMPP (recomendado) – https://www.apachefriends.org  
+- WAMP – https://www.wampserver.com  
+- Laragon – https://laragon.org  
+
+### ✔ 3. MySQL + phpMyAdmin  
+(Já incluído nos pacotes acima.)
+
+### ✔ 4. Editor de Código
+
+- Visual Studio Code – https://code.visualstudio.com  
+
+Extensões úteis:
+- Live Server  
+- PHP Intelephense  
+- MySQL Syntax  
+
+### ✔ 5. Navegador moderno  
+Chrome, Edge ou Firefox.
+
+---
+
+## 📥 Como Instalar
+
+1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/kwata.git
+   git clone https://github.com/denildinis/kwata.git
