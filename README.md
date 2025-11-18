@@ -92,8 +92,10 @@ Chrome, Edge ou Firefox.
 ## 📬 Contato
 Fique à vontade para entrar em contato:
 
-- 📧 Email: denildinis1@gmail.com  
-- 🔗 LinkedIn: [https://www.linkedin.com/in/denil-dinis-b74937352/](https://www.linkedin.com/in/denil-dinis-b74937352/)
+<p>
+  <a href="mailto:denildinis1@gmail.com"><img width="20px" src="./.github/assets/email.svg" alt="Email"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/denil-dinis-b74937352/"><img width="20px" src="./.github/assets/linkedin.svg" alt="LinkedIn"></a>&nbsp;&nbsp;
+</p>
 
 ---
 
