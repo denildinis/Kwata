@@ -86,3 +86,13 @@ Chrome, Edge ou Firefox.
 1. Clone o repositório:
    ```bash
    git clone https://github.com/denildinis/kwata.git
+
+---
+
+## 📬 Contato e Redes Sociais
+
+Fique à vontade para entrar em contato ou acompanhar o projeto nas redes sociais:
+
+- 📧 Email: denildinis1@gmail.com  
+- 🔗 LinkedIn: [https://www.linkedin.com/in/denildinis](https://www.linkedin.com/in/denildinis) 
+   
