@@ -93,8 +93,9 @@ Chrome, Edge ou Firefox.
 Fique à vontade para entrar em contato:
 
 <p>
-  <a href="mailto:denildinis1@gmail.com"><img width="20px" src="./.github/assets/email.svg" alt="Email"></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/denil-dinis-b74937352/"><img width="20px" src="./.github/assets/linkedin.svg" alt="LinkedIn"></a>&nbsp;&nbsp;
+  <a href="mailto:denildinis1@gmail.com"><img width="20px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/denil-dinis-b74937352/"><img width="20px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn"></a>&nbsp;&nbsp;
+  <a href="https://github.com/denildinis"><img width="20px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub"></a>&nbsp;&nbsp;
 </p>
 
 ---
