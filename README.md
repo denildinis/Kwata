@@ -89,10 +89,18 @@ Chrome, Edge ou Firefox.
 
 ---
 
-## 📬 Contato e Redes Sociais
-
-Fique à vontade para entrar em contato ou acompanhar o projeto nas redes sociais:
+## 📬 Contato
+Fique à vontade para entrar em contato:
 
 - 📧 Email: denildinis1@gmail.com  
-- 🔗 LinkedIn: [https://www.linkedin.com/in/denil-dinis-b74937352/](https://www.linkedin.com/in/denil-dinis-b74937352/) 
+- 🔗 LinkedIn: [https://www.linkedin.com/in/denil-dinis-b74937352/](https://www.linkedin.com/in/denil-dinis-b74937352/)
+
+---
+
+## 📄 Licença
+
+Este projeto está licenciado sob os termos da **Licença MIT**.  
+Você pode visualizar o texto completo da licença no arquivo:
+
+👉 **[📜 Ver Licença MIT](./LICENSE)**
    
