@@ -3,7 +3,7 @@
 Kwata é uma plataforma angolana inovadora dedicada a ajudar pessoas a procurar e encontrar documentos perdidos de forma rápida, segura e centralizada.  
 Ela surge como resposta a um problema comum no país: a falta de um sistema nacional organizado para tratar casos de perda e devolução de documentos.
 
-Atualmente, os angolanos dependem de métodos pouco eficazes, como redes sociais, rádio local, esquadras policiais e o boca a boca — processos que muitas vezes falham e tornam a emissão de segunda via cara, demorada e frustrante.
+Atualmente, os angolanos dependem de métodos pouco eficazes, como redes sociais, rádio local, esquadras policiais e o boca a boca, processos que muitas vezes falham e tornam a emissão de segunda via cara, demorada e frustrante.
 
 Com Kwata, esse cenário muda. 
 
