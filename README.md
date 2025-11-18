@@ -102,5 +102,5 @@ Fique à vontade para entrar em contato:
 Este projeto está licenciado sob os termos da **Licença MIT**.  
 Você pode visualizar o texto completo da licença no arquivo:
 
-👉 **[📜 Ver Licença MIT](./LICENSE)**
+👉 **[Ver Licença MIT](./LICENSE)**
    
