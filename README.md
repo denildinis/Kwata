@@ -94,5 +94,5 @@ Chrome, Edge ou Firefox.
 Fique à vontade para entrar em contato ou acompanhar o projeto nas redes sociais:
 
 - 📧 Email: denildinis1@gmail.com  
-- 🔗 LinkedIn: [https://www.linkedin.com/in/denildinis](https://www.linkedin.com/in/denildinis) 
+- 🔗 LinkedIn: [https://www.linkedin.com/in/denil-dinis-b74937352/](https://www.linkedin.com/in/denil-dinis-b74937352/) 
    
