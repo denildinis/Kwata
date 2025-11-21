@@ -64,7 +64,7 @@ Chrome, Edge ou Firefox.
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/denildinis/kwata.git
+   git clone https://github.com/denildinis/kwenda.git
 
 ---
 
