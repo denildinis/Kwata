@@ -13,9 +13,8 @@
 | Data           | Tarefa                                                                 |
 |----------------|------------------------------------------------------------------------|
 | 27/11 a 30/11  | Levantamento dos requisitos funcionais e não funcionais                |
-| 01/12 a 05/12  | Elaboração do Diagrama de Casos de Uso                                 |
-| 06/12 a 08/12  | Criação dos diagramas UML complementares (classes, sequência, atividades) |
-| 09/12 a 10/12  | Modelagem do banco de dados (Diagrama Entidade-Relacionamento)         |
+| 01/12 a 04/12  | Elaboração do Diagrama de Casos de Uso                                 |
+| 05/12 a 10/12  | Modelagem do banco de dados                                            |
 
 ---
 
