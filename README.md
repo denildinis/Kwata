@@ -73,7 +73,7 @@ Chrome, Edge ou Firefox.
 - Registre uma conta de cliente ou funcionário.  
 - Clientes podem visualizar agendamentos disponíveis e marcar seu atendimento.  
 - Funcionários podem acessar o painel administrativo para gerenciar agendamentos e filas.  
-- O sistema enviará **notificações por e-mail e na aplicação** para lembrar o cliente do seu horário.
+- O sistema enviará notificações por e-mail e na aplicação para lembrar o cliente do seu horário.
 ---
 
 ## 📬 Contato
