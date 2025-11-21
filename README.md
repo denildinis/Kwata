@@ -1,44 +1,23 @@
-# Kwata 
+# Kwenda
 
-Kwata é uma plataforma angolana inovadora dedicada a ajudar pessoas a procurar e encontrar documentos perdidos de forma rápida, segura e centralizada.  
-Ela surge como resposta a um problema comum no país: a falta de um sistema nacional organizado para tratar casos de perda e devolução de documentos.
-
-Atualmente, os angolanos dependem de métodos pouco eficazes, como redes sociais, rádio local, esquadras policiais e o boca a boca, processos que muitas vezes falham e tornam a emissão de segunda via cara, demorada e frustrante.
-
-Com Kwata, esse cenário muda. 
+Kwenda é uma plataforma inovadora angolana que simplifica o processo de marcação de atendimentos em bancos, eliminando filas longas e otimizando o tempo dos clientes.
 
 ---
 
 ## 📌 Sobre o Projeto
 
-Kwata vem do kimbundu, uma das línguas nacionais de Angola, e significa "encontrar".  
-O nome reflete a missão da plataforma: ajudar cidadãos a reencontrarem seus documentos de forma segura, simples e eficiente.
-
-O sistema permite registrar documentos perdidos e encontrados e usa um mecanismo inteligente de correspondência para aproximar quem perdeu de quem encontrou, respeitando totalmente a privacidade do usuário.
-
----
-
-## ⚙️ Como Funciona
-
-1. **📍 Registro de documentos perdidos:**  
-   O usuário informa tipo, local aproximado e data da perda.
-
-2. **📦 Registro de documentos encontrados:**  
-   Quem encontrou insere detalhes, local e envia foto parcial protegida.
-
-3. **🤖 Correspondência inteligente:**  
-   O sistema cruza informações automaticamente e notifica possíveis correspondências.
+Kwenda foi criado para resolver os desafios enfrentados pelos clientes bancários em Angola, onde filas longas e esperas prolongadas são comuns. A plataforma permite que os usuários agendem seus atendimentos com antecedência, escolham o horário desejado e recebam notificações para acompanhar sua vez, tudo de forma simples, rápida e segura.
 
 ---
 
 ## 📱 Funcionalidades
 
-- Criar anúncios de documentos perdidos  
-- Criar anúncios de documentos encontrados  
-- Upload de fotos parciais com dados sensíveis ocultados  
-- Notificações automáticas de correspondências  
-- Filtros por província, município, bairro e local específico  
-- Opção de entrega em pontos físicos parceiros  
+- Cadastro e login de usuários (clientes e funcionários do banco)  
+- Agendamento online de serviços bancários  
+- Visualização de horários disponíveis por agência  
+- Notificações na aplicação para informar o usuário sobre agendamentos e atualizações e/ou notificações via e-mail 
+- Painel administrativo para gerenciar agendamentos e filas  
+- Sistema inteligente para otimização do atendimento e redução de filas  
 
 ---
 
@@ -87,6 +66,14 @@ Chrome, Edge ou Firefox.
    ```bash
    git clone https://github.com/denildinis/kwata.git
 
+---
+
+## ⚙️ Como Usar
+
+- Registre uma conta de cliente ou funcionário.  
+- Clientes podem visualizar agendamentos disponíveis e marcar seu atendimento.  
+- Funcionários podem acessar o painel administrativo para gerenciar agendamentos e filas.  
+- O sistema enviará **notificações por e-mail e na aplicação** para lembrar o cliente do seu horário.
 ---
 
 ## 📬 Contato
